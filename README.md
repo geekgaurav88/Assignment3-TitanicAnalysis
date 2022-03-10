@@ -15,7 +15,7 @@ This repository is public. One is free to download this project and start contri
 # Repository Struture
 The folder structure is as followed:
 
-### a)src                     # Jupyter notebook with Python code and output
-### b)data                    # Data in CSV format (titanic.csv)
-### c)result                  # Brief PDF Report with hypothesis analysis
-### d)doc                     # For additional documentations
+### a)src                     #Jupyter notebook with Python code and output
+### b)data                    #Data in CSV format (titanic.csv)
+### c)result                  #Brief PDF Report with hypothesis analysis
+### d)doc                     #For additional documentations
